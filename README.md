@@ -3,8 +3,11 @@
 ## 📌 Executive Summary
 This interactive Power BI dashboard delivers a deep-dive analysis into employee attrition, workforce demographics, and organizational KPIs. It enables HR leadership to pinpoint turnover trends, identify at-risk job roles, and formulate data-driven employee retention strategies.
 
----
-![Dashboard Preview](Screenshot%202026-09-27%20174238.png)
+## dashboard preview
+<img width="1388" height="792" alt="Screenshot 2026-09-27 174432" src="https://github.com/user-attachments/assets/c0949e2d-90bf-4209-a66a-72206d0268bf" />
+
+## click here to watch video walkthrough
+<img width="800" height="452" alt="ScreenRecording2026-09-27173322-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1383dd34-fabe-492a-a5c5-4a93a42fa280" />
 
 
 ---
