@@ -6,7 +6,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis into employee 
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](dashboard.png)
+"C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot 2026-09-27 174238.png"
 
 ---
 
