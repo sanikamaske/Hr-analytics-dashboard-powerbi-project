@@ -5,8 +5,7 @@ This interactive Power BI dashboard delivers a deep-dive analysis into employee 
 
 ---
 
-## 📷 Dashboard Preview
-"C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot 2026-09-27 174238.png"
+
 
 ---
 
